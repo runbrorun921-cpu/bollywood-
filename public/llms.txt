@@ -1,0 +1,31 @@
+# BollywoodGame (bollywoodgame.online)
+> The premier free browser gaming portal featuring Bollywood-themed and international HTML5 games. No download, no install, play instantly on any device.
+
+## About
+BollywoodGame (https://bollywoodgame.online) is a free-to-play web gaming portal providing thousands of curated HTML5 browser games across 20+ genres, with special emphasis on Bollywood trivia, cinema dress-up, Indian pop culture games, action, cricket, racing, puzzle, and strategy games.
+
+## Key Facts
+- **Website**: https://bollywoodgame.online
+- **Platform**: Web Browser (Desktop, Mobile, Tablet, Smart TV)
+- **Cost**: 100% Free, no subscription, no credit card required
+- **Installation**: Zero download or installation required. All games run directly in modern web browsers.
+- **Safety**: Safe for all ages with explicit age ratings (All Ages, 13+, 18+) and family-friendly filters.
+- **Key Categories**: Bollywood Specials, Action, Cricket & Sports, Racing, Puzzle, Match-3, Quiz, Horror, Simulation, Girls, Boys, Strategy, .io Games, Board, RPG, Two-Player, Educational.
+
+## Top Games
+1. **Bollywood CineQuiz**: Test your knowledge of classic and modern Hindi cinema dialogue, songs, and box-office trivia.
+2. **Mumbai Rickshaw Rush**: High-speed endless runner navigating the vibrant streets and traffic of Mumbai.
+3. **Gullys Cricket Premier**: Fast-paced over-the-roof street cricket tournament simulator.
+4. **Bollywood Star Stylist**: Fashion and makeover dress-up for Red Carpet Bollywood galas.
+5. **Rangoli Jewel Match**: Vibrant Indian festive color match-3 puzzle game with traditional powerups.
+6. **Desi Dhaba Chef**: Fast-action cooking and restaurant management simulation serving street foods and curries.
+7. **Bhangra Beat Tap**: Rhythm and dance game tapping to energetic dhol beats.
+8. **Chor Police City Chase**: Action strategy driving game chasing villains through Indian metropolis routes.
+9. **Bollywood Wordle Desi**: Word puzzle guessing Hindi movie titles and famous film stars.
+10. **Ludo & Carrom Royal Club**: Classic Indian board games playable solo against AI or in 2-player mode.
+
+## Frequently Asked Questions (FAQ)
+- **Is BollywoodGame free to play?** Yes, every game on BollywoodGame is 100% free with unlimited playtime.
+- **Do I need to download files or apps?** No, all games run entirely inside your browser using HTML5 and WebGL.
+- **Can I play on my smartphone or tablet?** Yes, all games are fully responsive and touch-optimized for iOS and Android.
+- **How many games are available?** The portal features thousands of games with new titles added weekly.
